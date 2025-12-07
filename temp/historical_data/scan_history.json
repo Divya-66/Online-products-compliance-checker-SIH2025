@@ -1,0 +1,431 @@
+{
+  "total_scans": 3,
+  "scan_history": [
+    {
+      "scan_id": "scan_20250926_031539_1",
+      "timestamp": "2025-09-26T03:15:39.158708",
+      "product_info": {
+        "title": "Sunfeast Dark Fantasy Dark Fantasy Choco Fills, 300g",
+        "url": "https://www.amazon.in/Dark-Fantasy-Choco-Fills-300g/dp/B01I17U9ZO/ref=pd_sbs_d_sccl_2_6/260-7690809-9772731?pd_rd_w=UhdLS&content-id=amzn1.sym.6d240404-f8ea-42f5-98fe-bf3c8ec77086&pf_rd_p=6d240404-f8ea-42f5-98fe-bf3c8ec77086&pf_rd_r=5028GW2RZ98XYKPMESJK&pd_rd_wg=GCh2M&pd_rd_r=49d61023-5fe8-4536-b1ab-ef550ed0b001&pd_rd_i=B01I17U9ZO&th=1",
+        "manufacturer": "ITC, ITC Limited, Kolkata",
+        "origin": "India",
+        "mrp": "₹86.00",
+        "quantity": "230 g",
+        "category": "General Products"
+      },
+      "compliance_data": {
+        "score": 1.0,
+        "level": "excellent",
+        "required_present": 4,
+        "required_total": 4,
+        "compliance_summary": {
+          "total_fields_found": 6,
+          "required_present": 4,
+          "required_total": 4,
+          "compliance_score": "4/4"
+        },
+        "compliance": {
+          "mrp": true,
+          "quantity": true,
+          "manufacturer": true,
+          "origin": true,
+          "support": true,
+          "dates": false,
+          "batch": false,
+          "license": true,
+          "barcode": false
+        },
+        "missing_fields": [],
+        "warnings": [
+          "Optional: Manufacturing/Expiry Date",
+          "Optional: Batch/Lot Number",
+          "Optional: Product Barcode"
+        ]
+      },
+      "technical_data": {
+        "images_count": 6,
+        "ocr_text_length": 2754,
+        "vision_selected": 2,
+        "gemini_analysis": {},
+        "gemini_comprehensive": {},
+        "manufacturer_analytics": {
+          "manufacturer_name": "Itc, Itc Limited, Kolkata",
+          "total_products": 2,
+          "average_compliance_score": 1.0,
+          "compliance_level": "Excellent"
+        }
+      },
+      "extracted_fields": {
+        "mrp": "₹86.00",
+        "quantity": "230 g",
+        "manufacturer": "ITC, ITC Limited, Kolkata",
+        "origin": "India",
+        "support": "1001603100178",
+        "dates": null,
+        "batch": null,
+        "license": "10018012000497",
+        "barcode": null
+      }
+    },
+    {
+      "scan_id": "scan_20250926_122543_2",
+      "timestamp": "2025-09-26T12:25:43.090028",
+      "product_info": {
+        "title": "Kellogg's Muesli Fruit Nut & Seeds 750G | 12-In-1 Power Breakfast | India'S No. 1 Muesli | Multigrain Breakfast Cereal",
+        "url": "https://www.amazon.in/Kelloggs-Muesli-21-Fruit-Pouch/dp/B083JP2NZX?crid=845ADHX5973F&dib=eyJ2IjoiMSJ9.XfhKKeuLftqesUwEEJdIYCbg1u2UXQrvP7Vl3IjJbnNZtKT0qqzaZVQgBrHP03VHMtt0wz9h0xu-A20ro5yyCpMClNQyTu2lcUJNa47FkKqFGe5RP_Si_ceRXhJGATNy7zz0Sl5NbAcpE0OCV-Fv-vPLcqhlsVki-Trfbjio1Eemaaj43s6H2FvN0JpE0ZGsjzJeJYwmdmLXzb3bo2wW-3Tz02sfWVPehT3rugsqzdvqM39DxtSGMgWk51ml0RLpBGFi-qXTDuvfDmmvBrjqjcx61S0WF_gY_fLM_NeIRpA.prRfcZPEYxy-uCaopgzJDKBvNbhxlzqEQuB9UGq9Jz0&dib_tag=se&keywords=muesli&qid=1758869608&sprefix=wheat%2Caps%2C304&sr=8-5",
+        "manufacturer": "Kellogg India Pvt Ltd. , Plot No. L2 & L3, Taloja Midc, District Raigad, Maharashtra, Kellogg's India Pvt Ltd",
+        "origin": "India",
+        "mrp": "₹323.00",
+        "quantity": "12 G",
+        "category": "Food & Beverages"
+      },
+      "compliance_data": {
+        "score": 1.0,
+        "level": "excellent",
+        "required_present": 4,
+        "required_total": 4,
+        "compliance_summary": {
+          "total_fields_found": 4,
+          "required_present": 4,
+          "required_total": 4,
+          "compliance_score": "4/4"
+        },
+        "compliance": {
+          "mrp": true,
+          "quantity": true,
+          "manufacturer": true,
+          "origin": true,
+          "support": false,
+          "dates": false,
+          "batch": false,
+          "license": false,
+          "barcode": false
+        },
+        "missing_fields": [],
+        "warnings": [
+          "Optional: Consumer Care Contact",
+          "Optional: Manufacturing/Expiry Date",
+          "Optional: Batch/Lot Number",
+          "Optional: FSSAI License Number",
+          "Optional: Product Barcode"
+        ]
+      },
+      "technical_data": {
+        "images_count": 6,
+        "ocr_text_length": 2094,
+        "vision_selected": 0,
+        "gemini_analysis": {},
+        "gemini_comprehensive": {},
+        "manufacturer_analytics": {
+          "manufacturer_name": "Kellogg India Pvt Ltd. , Plot No. L2 & L3, Taloja Midc, District Raigad, Maharashtra, Kellogg'S India",
+          "total_products": 1,
+          "average_compliance_score": 1.0,
+          "compliance_level": "Excellent"
+        },
+        "product_details": {
+          "Specialty": "High Fibre, High Protein, Whole Grain",
+          "Weight": "750 Grams",
+          "Ingredient Type": "Vegetarian",
+          "Brand": "Kellogg's",
+          "Item package quantity": "1",
+          "Form": "Flaked",
+          "Appropriate Age Range": "Adult",
+          "Serving Recommendation": "As per age",
+          "Package Information": "Pouch",
+          "Manufacturer": "Kellogg India Pvt Ltd. , Plot No. L2 & L3, Taloja Midc, District Raigad, Maharashtra, Kellogg's India Pvt Ltd",
+          "Additives": "Fruit, Nut, Seeds, Multigrain",
+          "Allergen Information": "Barley",
+          "Item model number": "FN600R05",
+          "Net Quantity": "750.0 gram",
+          "Product Dimensions": "25 x 10 x 33 cm; 750 g",
+          "Ingredients": "Corn Grits,Wheat,Rice",
+          "Serving Size": "1",
+          "Energy (kcal)": "392.00 Kilocalories",
+          "Protein": "8 g",
+          "Fat": "6 g",
+          "Carbohydrate": "79 g",
+          "- Sugars": "23.5 g",
+          "Country of Origin": "India",
+          "ASIN": "B083JP2NZX",
+          "Customer Reviews": "4.4 \n4.4 out of 5 stars\n    26,642 ratings\n4.4 out of 5 stars",
+          "Best Sellers Rank": "#27 in Grocery & Gourmet Foods (See Top 100 in Grocery & Gourmet Foods)\n#1 in Muesli",
+          "Date First Available": "5 January 2020",
+          "Packer": "kconsumer@kellogg.com",
+          "Importer": "India",
+          "Item Weight": "750 g",
+          "Item Dimensions LxWxH": "25 x 10 x 33 Centimeters",
+          "Generic Name": "Muesli 21% Fruit & Nut"
+        }
+      },
+      "extracted_fields": {
+        "mrp": "₹323.00",
+        "quantity": "12 G",
+        "manufacturer": "Kellogg India Pvt Ltd. , Plot No. L2 & L3, Taloja Midc, District Raigad, Maharashtra, Kellogg's India Pvt Ltd",
+        "origin": "India",
+        "support": null,
+        "dates": null,
+        "batch": null,
+        "license": null,
+        "barcode": null
+      }
+    },
+    {
+      "scan_id": "scan_20250926_140516_3",
+      "timestamp": "2025-09-26T14:05:16.060640",
+      "product_info": {
+        "title": "Nutrabay Pure Micronised Creatine Monohydrate Powder 3000 mg/Serving – Pre/Post Workout Supplement for Muscle Gain & Recovery |33 Servings – 100g, Unflavoured | Trustified Certified | 100% Authentic",
+        "url": "https://amzn.in/d/dTAL3KI",
+        "manufacturer": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+        "origin": "al products",
+        "mrp": "₹229.00",
+        "quantity": "8 G",
+        "category": "Pharmaceuticals"
+      },
+      "compliance_data": {
+        "score": 1.0,
+        "level": "excellent",
+        "required_present": 4,
+        "required_total": 4,
+        "compliance_summary": {
+          "total_fields_found": 4,
+          "required_present": 4,
+          "required_total": 4,
+          "compliance_score": "4/4"
+        },
+        "compliance": {
+          "mrp": true,
+          "quantity": true,
+          "manufacturer": true,
+          "origin": true,
+          "support": false,
+          "dates": false,
+          "batch": false,
+          "license": false,
+          "barcode": false
+        },
+        "missing_fields": [],
+        "warnings": [
+          "Optional: Consumer Care Contact",
+          "Optional: Manufacturing/Expiry Date",
+          "Optional: Batch/Lot Number",
+          "Optional: FSSAI License Number",
+          "Optional: Product Barcode"
+        ]
+      },
+      "technical_data": {
+        "images_count": 6,
+        "ocr_text_length": 2506,
+        "vision_selected": 0,
+        "gemini_analysis": {},
+        "gemini_comprehensive": {},
+        "manufacturer_analytics": {
+          "manufacturer_name": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+          "total_products": 1,
+          "average_compliance_score": 1.0,
+          "compliance_level": "Excellent"
+        },
+        "product_details": {
+          "Product Dimensions   15 x 10 x 3 cm; 100 g": "Product Dimensions  :",
+          "Date First Available   16 March 2022": "Date First Available  :",
+          "Manufacturer   Abyss Pharma Pvt. Ltd.": "Manufacturer  :",
+          "ASIN   B09VP6HL5J": "ASIN  :",
+          "Item model number   NB-NUT-1009-03": "Item model number  :",
+          "Country of Origin   India": "Country of Origin  :",
+          "Manufacturer   Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Manufacturer  :",
+          "Packer   Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Packer  :",
+          "Importer   Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Importer  :",
+          "Item Weight   100 g": "Item Weight  :",
+          "Item Dimensions LxWxH   15 x 10 x 3 Centimeters": "Item Dimensions LxWxH  :",
+          "Net Quantity   100.0 gram": "Net Quantity  :",
+          "Generic Name   Creatine": "Generic Name  :",
+          "Best Sellers Rank #266 in Health & Personal Care (See Top 100 in Health & Personal Care)\n#4 in Creatine": "Best Sellers Rank:",
+          "Customer Reviews 4.2 \n4.2 out of 5 stars\n    7,820 ratings": "Customer Reviews:",
+          "Manufacturer": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+          "Country of Origin": "India",
+          "Item model number": "NB-NUT-1009-03",
+          "Product Dimensions": "15 x 10 x 3 cm; 100 g",
+          "ASIN": "B09VP6HL5J",
+          "Packer": "Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+          "Importer": "Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+          "Item Weight": "100 g",
+          "Item Dimensions LxWxH": "15 x 10 x 3 Centimeters",
+          "Net Quantity": "100.0 gram",
+          "Generic Name": "Creatine",
+          "Best Sellers Rank": "#266 in Health & Personal Care (See Top 100 in Health & Personal Care)\n#4 in Creatine"
+        }
+      },
+      "extracted_fields": {
+        "mrp": "₹229.00",
+        "quantity": "8 G",
+        "manufacturer": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+        "origin": "al products",
+        "support": null,
+        "dates": null,
+        "batch": null,
+        "license": null,
+        "barcode": null
+      }
+    }
+  ],
+  "statistics": {
+    "compliance_distribution": {
+      "excellent": 3,
+      "good": 0,
+      "fair": 0,
+      "poor": 0
+    },
+    "field_compliance": {
+      "required_fields": {
+        "mrp": {
+          "present": 3,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        "quantity": {
+          "present": 3,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        "manufacturer": {
+          "present": 3,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        "origin": {
+          "present": 3,
+          "missing": 0,
+          "percentage": 100.0
+        }
+      },
+      "optional_fields": {
+        "support": {
+          "present": 1,
+          "missing": 2,
+          "percentage": 33.33333333333333
+        },
+        "dates": {
+          "present": 0,
+          "missing": 3,
+          "percentage": 0.0
+        },
+        "batch": {
+          "present": 0,
+          "missing": 3,
+          "percentage": 0.0
+        },
+        "license": {
+          "present": 1,
+          "missing": 2,
+          "percentage": 33.33333333333333
+        },
+        "barcode": {
+          "present": 0,
+          "missing": 3,
+          "percentage": 0.0
+        }
+      }
+    },
+    "manufacturer_stats": {
+      "ITC, ITC Limited, Kolkata": {
+        "total_scans": 1,
+        "total_compliance_score": 1.0,
+        "average_compliance_score": 1.0,
+        "compliance_levels": {
+          "excellent": 1,
+          "good": 0,
+          "fair": 0,
+          "poor": 0
+        },
+        "categories": [
+          "General Products"
+        ]
+      },
+      "Kellogg India Pvt Ltd. , Plot No. L2 & L3, Taloja Midc, District Raigad, Maharashtra, Kellogg's India Pvt Ltd": {
+        "total_scans": 1,
+        "total_compliance_score": 1.0,
+        "average_compliance_score": 1.0,
+        "compliance_levels": {
+          "excellent": 1,
+          "good": 0,
+          "fair": 0,
+          "poor": 0
+        },
+        "categories": [
+          "Food & Beverages"
+        ]
+      },
+      "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": {
+        "total_scans": 1,
+        "total_compliance_score": 1.0,
+        "average_compliance_score": 1.0,
+        "compliance_levels": {
+          "excellent": 1,
+          "good": 0,
+          "fair": 0,
+          "poor": 0
+        },
+        "categories": [
+          "Pharmaceuticals"
+        ]
+      }
+    },
+    "category_stats": {
+      "General Products": {
+        "total_scans": 1,
+        "total_compliance_score": 1.0,
+        "average_compliance_score": 1.0,
+        "compliance_levels": {
+          "excellent": 1,
+          "good": 0,
+          "fair": 0,
+          "poor": 0
+        },
+        "manufacturers": [
+          "ITC, ITC Limited, Kolkata"
+        ]
+      },
+      "Food & Beverages": {
+        "total_scans": 1,
+        "total_compliance_score": 1.0,
+        "average_compliance_score": 1.0,
+        "compliance_levels": {
+          "excellent": 1,
+          "good": 0,
+          "fair": 0,
+          "poor": 0
+        },
+        "manufacturers": [
+          "Kellogg India Pvt Ltd. , Plot No. L2 & L3, Taloja Midc, District Raigad, Maharashtra, Kellogg's India Pvt Ltd"
+        ]
+      },
+      "Pharmaceuticals": {
+        "total_scans": 1,
+        "total_compliance_score": 1.0,
+        "average_compliance_score": 1.0,
+        "compliance_levels": {
+          "excellent": 1,
+          "good": 0,
+          "fair": 0,
+          "poor": 0
+        },
+        "manufacturers": [
+          "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India"
+        ]
+      }
+    },
+    "trends": {
+      "daily_scans": {
+        "2025-09-26": 3
+      },
+      "weekly_compliance": {
+        "2025-W38": {
+          "total_scans": 3,
+          "total_score": 3.0,
+          "average_score": 1.0
+        }
+      },
+      "monthly_analysis": {}
+    }
+  },
+  "last_updated": "2025-09-26T14:05:16.060640"
+}

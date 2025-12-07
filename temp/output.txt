@@ -1,0 +1,171 @@
+{
+  "url": "https://amzn.in/d/dTAL3KI",
+  "title": "Nutrabay Pure Micronised Creatine Monohydrate Powder 3000 mg/Serving – Pre/Post Workout Supplement for Muscle Gain & Recovery |33 Servings – 100g, Unflavoured | Trustified Certified | 100% Authentic",
+  "mrp": "₹229.00",
+  "quantity": "8 G",
+  "manufacturer": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+  "origin": "al products",
+  "images": [
+    "temp\\temp2\\img1_41DID9LXi0L_SL1500.jpg",
+    "temp\\temp2\\img2_51l2vZTBOCL_SL1500.jpg",
+    "temp\\temp2\\img3_51SYNAAjt5L_SL1500.jpg",
+    "temp\\temp2\\img4_41kUeJs4fEL_SL1500.jpg",
+    "temp\\temp2\\img5_41d5A3jigqL_SL1500.jpg",
+    "temp\\temp2\\img6_41fL7-ugDNL_SL1500.jpg"
+  ],
+  "Brand": "Nutrabay",
+  "Flavour": "Unflavoured",
+  "Primary Supplement Type": "Creatine",
+  "Net Quantity": "100.0 gram",
+  "Item Form": "Powder",
+  "Item Weight": "100 Grams",
+  "Item dimensions L x W x H": "15 x 10 x 3 Centimeters",
+  "Special Ingredients": "Creatine",
+  "Diet Type": "Vegetarian",
+  "Product Benefits": "Energy Management",
+  "product_details": {
+    "Product Dimensions   15 x 10 x 3 cm; 100 g": "Product Dimensions  :",
+    "Date First Available   16 March 2022": "Date First Available  :",
+    "Manufacturer   Abyss Pharma Pvt. Ltd.": "Manufacturer  :",
+    "ASIN   B09VP6HL5J": "ASIN  :",
+    "Item model number   NB-NUT-1009-03": "Item model number  :",
+    "Country of Origin   India": "Country of Origin  :",
+    "Manufacturer   Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Manufacturer  :",
+    "Packer   Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Packer  :",
+    "Importer   Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Importer  :",
+    "Item Weight   100 g": "Item Weight  :",
+    "Item Dimensions LxWxH   15 x 10 x 3 Centimeters": "Item Dimensions LxWxH  :",
+    "Net Quantity   100.0 gram": "Net Quantity  :",
+    "Generic Name   Creatine": "Generic Name  :",
+    "Best Sellers Rank #266 in Health & Personal Care (See Top 100 in Health & Personal Care)\n#4 in Creatine": "Best Sellers Rank:",
+    "Customer Reviews 4.2 \n4.2 out of 5 stars\n    7,820 ratings": "Customer Reviews:",
+    "Manufacturer": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+    "Country of Origin": "India",
+    "Item model number": "NB-NUT-1009-03",
+    "Product Dimensions": "15 x 10 x 3 cm; 100 g",
+    "ASIN": "B09VP6HL5J",
+    "Packer": "Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+    "Importer": "Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+    "Item Weight": "100 g",
+    "Item Dimensions LxWxH": "15 x 10 x 3 Centimeters",
+    "Net Quantity": "100.0 gram",
+    "Generic Name": "Creatine",
+    "Best Sellers Rank": "#266 in Health & Personal Care (See Top 100 in Health & Personal Care)\n#4 in Creatine"
+  },
+  "vision": {
+    "selected": [],
+    "scoring": {
+      "temp\\temp2\\img1_41DID9LXi0L_SL1500.jpg": {
+        "score": 0,
+        "matched": [],
+        "text_preview": "NUTRABAY Pure CREATINE MONOHYDRATE Micronizcd eccruc FonaoUlTa Darelnaanana"
+      },
+      "temp\\temp2\\img2_51l2vZTBOCL_SL1500.jpg": {
+        "score": 0,
+        "matched": [],
+        "text_preview": "60% Strength Increase In 10 Weeks* Basad on Scientific Research"
+      },
+      "temp\\temp2\\img3_51SYNAAjt5L_SL1500.jpg": {
+        "score": 0,
+        "matched": [],
+        "text_preview": "We've Raised the Bar on Trust & Purityl Trustified NUTRABAY Pure HERQY CREATINE MONOHYDRATE WndisoD LABTESTING 7~ 3 uliEo Lncrontnad Kenaae SUPER For 2 8.N3ia3891`"
+      },
+      "temp\\temp2\\img4_41kUeJs4fEL_SL1500.jpg": {
+        "score": 0,
+        "matched": [],
+        "text_preview": "NUTRABAY Pure Other Creatine Creatines CREATINE Parameters Purity 99.996 <90% Formula 100% Micronized Non-Micronized Absorption Fast Slow Mixability Dissolves Easily Mixability Issues Passed Blind No ..."
+      },
+      "temp\\temp2\\img5_41d5A3jigqL_SL1500.jpg": {
+        "score": 0,
+        "matched": [],
+        "text_preview": "You may receive either packaging: Nutraday Puri NUTRABAY MicRONIZED Pure CREATINE CREATINE MONOHYDRATE MONOHYDRATE 4 Both are the same & 10O% original products"
+      },
+      "temp\\temp2\\img6_41fL7-ugDNL_SL1500.jpg": {
+        "score": 0,
+        "matched": [],
+        "text_preview": "Higher Muscle Volume in a Month\" \"Based On Scientific Research"
+      }
+    }
+  },
+  "ocr": {
+    "extracted_text": "NUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nMicronizcd \nNUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nMicronied \nNUTRABAY \nCREATINE \nMONOHYDRATE \nNUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nMicronned \n33 \n60% \nStrength Increase \nIn 10 Weeks* \nBasad on Scientific Research \n60% \nStrength Increase \nIn 10 Weeks\" \nBasad on Sciantific Research \n60% \nStrength ncrease) \n60% \nStrength Increase \nIn 10 Weeks\" \n'Basad on Scientific Research \nWe've Raised the Bar on \nTrust & Purityl \nTrustified \nNUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nLABTESTING \nSUPER \nFor \nWe've Raised the Bar on \nTrust & Purityl \nTrustified \npure \nCREATINE \nMONOHYDRATE \nLAB TESTNG \n8 \nGuper  \n0 \n8n3i03891` \nWeve Raised the Bar on} \nTrustlePurityl \nTrustified \nCREATINB \nWe'vve Raised the Bar on \nTrust & Purityl \nTrustified \nPure \nCREATINE \nUNBLSED \nLAB TESTING \nRAIED  \nFor \n8 \nNUTRABAY Pure \nOther \nCreatine \nCreatines \nCREATINE \nParameters \nPurity \n99.996 \n<90% \nFormula \n100% Micronized \nNon-Micronized \nAbsorption \nFast \nSlow \nMixability \nDissolves Easily \nMixability Issues \nPassed Blind \nNo Lab \nCertification \nTesting \nTesting \nNUTRABAY Pure \nOther \nCreatine \nCreatines \nParameters \nPurity \n99.996 \n<90% \nFormula \n100% Micronized \nNon-Micronized \nAbsorption \nFast \nSlow \nMixability \nDissolves Easily \nMixability Issues \nPassed Blind \nNo Lab \nCertification \nTesting \nTesting \nNUTRABAY Pure \n[Other : \nCreatine; \nreatines' \nParameters; \nFormul \nNon Mcronizea \nBeorrtlon} \nSlow \nalves Easily \nssues \nCertification \nPassed Blind \nNoLab \n(esting \nTestlng) \nDlssol \nMbabilly! \nNUTRABAY Pure \nOther \nCreatine \nCreatines \nParameters \nPurity \n99.9% \n<90% \nFormula \n100% Micronized \nNon-Micronized \nAbsorption \nFast \nSlow \nMixability \nDissolves Easily \nMixability Issues \nPassed Blind \nNo Lab \nCertification \nTesting \nTesting \nYou may receive either packaging: \nNUTRABAY \nMicRONIZED \nPure \nCREATINE \nCREATINE \nMONOHYDRATE \nMONOHYDRATE \n4 \nBoth are the same & 10O% original products \nYou may receive either packaging: \nMUIRADAY \nMicronized \nCREATINE \nCREATINE \nMONOHYDRATE \nBoth are the same & 1OO% original products \nYou may receive either packaging: \nCREATINE \nCREATINE \nBoth are the same & 10O% original products \nYou may receive either packaging: \nNUTRADAy \nMicronized \nDure \nCREATINE \nCREATINE \nMONOHYDRATE \nBoth are the same \n10O% original products. \nHigher Muscle \nVolume \nin a Month\" \n\"Based On Scientific Research \nHigher Muscle \nVolume \nin a Month' \nHigherMuscle \nVolume \nineMonth  \nHigher Muscle \nVolume \nin a Month' \nBasad On Scieritific Research \n1",
+    "fields": {
+      "origin": "al products",
+      "quantity": "8 G"
+    },
+    "compliance": {
+      "mrp": false,
+      "quantity": true,
+      "manufacturer": false,
+      "origin": true,
+      "support": false,
+      "dates": false,
+      "batch": false,
+      "license": false,
+      "barcode": false
+    },
+    "missing": [
+      "Maximum Retail Price (₹)",
+      "Manufacturer/Packer Name"
+    ],
+    "warnings": [
+      "Optional: Consumer Care Contact",
+      "Optional: Manufacturing/Expiry Date",
+      "Optional: Batch/Lot Number",
+      "Optional: FSSAI License Number",
+      "Optional: Product Barcode"
+    ],
+    "summary": {
+      "total_fields_found": 2,
+      "required_present": 2,
+      "required_total": 4,
+      "compliance_score": "2/4"
+    }
+  },
+  "compliance": {
+    "mrp": true,
+    "quantity": true,
+    "manufacturer": true,
+    "origin": true,
+    "support": false,
+    "dates": false,
+    "batch": false,
+    "license": false,
+    "barcode": false
+  },
+  "missing_fields": [],
+  "warnings": [
+    "Optional: Consumer Care Contact",
+    "Optional: Manufacturing/Expiry Date",
+    "Optional: Batch/Lot Number",
+    "Optional: FSSAI License Number",
+    "Optional: Product Barcode"
+  ],
+  "compliance_summary": {
+    "total_fields_found": 4,
+    "required_present": 4,
+    "required_total": 4,
+    "compliance_score": "4/4"
+  },
+  "manufacturer_analytics": {
+    "manufacturer_name": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+    "total_products": 1,
+    "average_compliance_score": 1.0,
+    "compliance_level": "Excellent"
+  },
+  "gemini_status": {
+    "gemini_available": true,
+    "api_key_set": true,
+    "ready": true
+  },
+  "gemini_enhanced": {
+    "enhanced": false,
+    "reason": "Gemini enhancement failed: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  "gemini_analysis": {
+    "error": "Gemini analysis failed: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  "gemini_comprehensive": {
+    "error": "Comprehensive analysis failed: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  }
+}
